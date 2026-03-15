@@ -1,8 +1,10 @@
 # Docker Management wiht Portainer
 
-// TODO 
+## Install
+
+1. Run `docker compose uo -d`
 
 
-References:
+## References:
 
 1. https://docs.portainer.io/start/install-ce/server/docker/linux
